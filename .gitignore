@@ -1,0 +1,13 @@
+﻿.idea/
+.vs/
+*.csproj.user
+*.DotSettings.user
+*.vspscc
+*.vssscc
+*.suo
+bin/
+obj/
+
+
+
+
